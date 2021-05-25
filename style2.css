@@ -1,0 +1,20 @@
+.header_wrapper{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.card_time{
+  font-size: 13px;
+  line-height: 15px;
+  margin: 0;
+
+}
+
+.card_info {
+  font-size: 14px;
+  line-height: 16px;
+  margin: 0;
+}
